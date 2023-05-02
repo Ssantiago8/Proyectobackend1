@@ -8,8 +8,3 @@ Instrucciones:
 4. Instalar dependencias (npm i).
 5. Correr proyecto. (npm start).
 
-Cambios:
-
-- Instalación de Prettier.
-- Instalación de Babel.
-  > Para mas información sobre usar Babel: https://github.com/babel/example-node-server
